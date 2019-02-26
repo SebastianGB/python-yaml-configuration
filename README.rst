@@ -1,5 +1,5 @@
-.. image:: http://buildbot.robotic.dlr.de:8010/badge.png?builder=common/python_yaml_configuration&branch=master
-   :target: http://buildbot.robotic.dlr.de:8010/builders/common%2Fpython_yaml_configuration/
+.. image:: http://213.136.81.227:8080/job/my_first_test_job/badge/icon
+   :target: http://213.136.81.227:8080/job/my_first_test_job/badge/icon
 
 yaml\_configuration
 ===================
