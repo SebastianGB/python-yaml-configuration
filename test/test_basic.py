@@ -17,7 +17,7 @@
 
 
 """
-from __future__ import print_functio
+from __future__ import print_function
 
 import os
 import logging
