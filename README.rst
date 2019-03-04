@@ -1,7 +1,6 @@
 
- .. image:: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
+.. image:: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
     :target: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
-    Build Status
 
 
 yaml\_configuration
