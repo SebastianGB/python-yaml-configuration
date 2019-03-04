@@ -1,13 +1,13 @@
 .. container:: twocol
+   
+    .. container:: leftside
 
-   .. container:: rightside
+       Build status.
+      
+    .. container:: rightside
 
-      .. image:: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
-         :target: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
-         
-   .. container:: leftside
-
-      Build status 
+       .. image:: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
+          :target: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
 
 
 yaml\_configuration
