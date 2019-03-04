@@ -1,6 +1,13 @@
 
-.. image:: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
-    :target: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
+Build status 1: |pic1|, and build status 2: |pic2|
+
+.. |pic1| image:: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
+   :target: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
+   :width: 45%
+
+.. |pic2| image:: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
+   :target: http://213.136.81.227:8080/buildStatus/icon?job=my_first_test_job
+   :width: 45%
 
 
 yaml\_configuration
